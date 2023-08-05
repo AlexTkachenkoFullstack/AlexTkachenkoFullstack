@@ -1,7 +1,7 @@
 # Overview
 <h1 align="center">✋Hi everybody! I am Oleksandr Tkachenko </h1>
 
-<img src="https://github.com/AlexTkachenkoFullstack/Overview/blob/main/OverViewImg.png">
+<img src="https://github.com/AlexTkachenkoFullstack/AlexTkachenkoFullstack/blob/main/OverViewImg.png">
   <div align="center">
   
   </div>
