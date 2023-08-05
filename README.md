@@ -1,14 +1,14 @@
 # Overview
 <img src="https://github.com/AlexTkachenkoFullstack/Overview/blob/main/OverViewImg.png">
   <div align="center">
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Oleksandr Tkachenko</h1>
+  <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px">Hi! I am Oleksandr Tkachenko</h1>
   </div>
   
 <br>
   
-- 👀 I’m interested in **computer programming & coding**
-- 🌱 I’m currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB.**
-- 📫 Wrire me **oleksandrtkachenko202@gmail.com**
+- 💻 I’m interested in **computer programming & coding**
+- 💮 I’m currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB.**
+- 📧 Wrire me **oleksandrtkachenko202@gmail.com**
   
 ---
 
