@@ -1,7 +1,9 @@
 # Overview
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px">✋Hi! I am Oleksandr Tkachenko </h1>
+
 <img src="https://github.com/AlexTkachenkoFullstack/Overview/blob/main/OverViewImg.png">
   <div align="center">
-  <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px">Hi! I am Oleksandr Tkachenko</h1>
+  
   </div>
   
 <br>
