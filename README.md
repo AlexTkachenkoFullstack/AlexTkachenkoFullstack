@@ -1,5 +1,5 @@
 # Overview
-<h1 align="center">✋Hi! I am Oleksandr Tkachenko </h1>
+<h1 align="center">✋Hi everybody! I am Oleksandr Tkachenko </h1>
 
 <img src="https://github.com/AlexTkachenkoFullstack/Overview/blob/main/OverViewImg.png">
   <div align="center">
@@ -8,8 +8,8 @@
   
 <br>
   
-- 💻 I’m interested in **computer programming & coding**
-- 💮 I’m currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB.**
+- 💻 I am interested in **computer programming & coding**
+- 💮 I am currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB.**
 - 📧 Wrire me **oleksandrtkachenko202@gmail.com**
   
 ---
