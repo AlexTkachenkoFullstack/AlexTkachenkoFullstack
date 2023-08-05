@@ -1,16 +1,7 @@
 # Overview
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/GitHub.png">
-
-<div align="center">
-  <h3 align="center">
-You have stayed on my page for:
-</h3>
   
-  <p align="center">
-<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
-</p>
-  
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Oleksandr Tkachenko</h1>
 <h3 align="center">www.codewars.com 👌</h3>
   </div>
   
@@ -24,16 +15,7 @@ You have stayed on my page for:
 - 🌱 I’m currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB.**
 - 📫 Wrire me **oleksandrtkachenko202@gmail.com**
   
-<div align="center">
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
-  </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EuJinnLucaShow&style=flat-square&color=blue" alt="" align="center"/>
-</div>
-  
-
-  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
