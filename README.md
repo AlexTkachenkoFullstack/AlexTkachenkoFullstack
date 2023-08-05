@@ -37,7 +37,7 @@
 
 ---
   <div align="center">
-<p align="center">🔥 Streak Stats</p>
+<p align="center">🔥🔥🔥 Streak Stats 🔥🔥🔥</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTkachenkoFullstack&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
