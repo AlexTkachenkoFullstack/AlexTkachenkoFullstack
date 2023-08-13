@@ -41,5 +41,5 @@
   <div align="center">
 <p align="center">🔥🔥🔥 Streak Stats 🔥🔥🔥</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTkachenkoFullstack&theme=radical&background=#1798FF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTkachenkoFullstack&theme=radical&background=#1798FF&fire=red)](https://git.io/streak-stats)
 </div>
