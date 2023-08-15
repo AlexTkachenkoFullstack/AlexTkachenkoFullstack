@@ -9,7 +9,7 @@
 <br>
   
 - 💻 I am interested in **computer programming & coding**
-- 💮 I am currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB.**
+- 💮 I am currently learning **HTML5, CSS3, SASS, GIT, GitHub, JavaScript, TypeScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB, Mongoose**
 - 📧 Wrire me **oleksandrtkachenko202@gmail.com**
   <br/>
   
