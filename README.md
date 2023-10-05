@@ -39,9 +39,7 @@
 </div>
 
 ---
-  <div align="center">
+  <--! <div align="center">
 <p align="center">🔥🔥🔥 Streak Stats 🔥🔥🔥</p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexTkachenkoFullstack)](https://git.io/streak-stats)
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTkachenkoFullstack&theme=radical&background=000000&fire=0023ff)](https://git.io/streak-stats) -->
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTkachenkoFullstack&theme=radical&background=000000&fire=0023ff)](https://git.io/streak-stats)
+</div>-->
