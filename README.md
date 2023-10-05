@@ -11,7 +11,7 @@
 - 💻 I am interested in **computer programming & coding**
 - 💮 I am currently learning **HTML5, CSS3, SASS, GIT, GitHub, JavaScript, TypeScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB, Mongoose**
 - 📧 Wrire me **oleksandrtkachenko202@gmail.com**
-  <br/>
+  <br>
   
 ---
 
@@ -37,4 +37,5 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
-<br></br>
+
+<br/>
