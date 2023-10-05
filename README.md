@@ -38,4 +38,4 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexTkachenkoFullstack&theme=default)](https://git.io/streak-stats) </div>
+ [![GitHub Streak align="center"](https://streak-stats.demolab.com/?user=AlexTkachenkoFullstack&theme=default)](https://git.io/streak-stats)
